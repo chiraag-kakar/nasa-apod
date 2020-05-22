@@ -11,6 +11,7 @@
 ![screenshot of NASA's API data](screenshot.png)
 
 Live site: https://sophi-li.github.io/fetch/
+
 Language: JavaScript
 
 ## Prerequisites
@@ -19,19 +20,25 @@ Language: JavaScript
 
 ## Install
 
+1. Clone the repo
+
 ```sh
 git clone https://github.com/sophi-li/fetch.git
 ```
+
+2. Navigate into the repo
 
 ```sh
 cd fetch
 ```
 
-Open Live Server with VSCode.
+3. Add your API key
+
+4. Open Live Server with VSCode.
 
 ## Tutorial
 
-You can find a full tutorial on how to use the Fetch API in my blog post.
+You can find a full tutorial on how to use the Fetch API in my [blog post](https://sophiali.dev/javascript-fetch-api-with-nasa-api).
 
 ## Author
 
