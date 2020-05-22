@@ -10,8 +10,6 @@
 
 ![screenshot of NASA's API data](screenshot.png)
 
-Live site: https://sophi-li.github.io/fetch/
-
 Language: JavaScript
 
 ## Prerequisites
